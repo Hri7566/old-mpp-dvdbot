@@ -8,5 +8,10 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mpp-client": "^0.2.1",
+    "mpp-client-xt": "^1.2.0",
+    "nvm": "0.0.4"
+  }
 }
