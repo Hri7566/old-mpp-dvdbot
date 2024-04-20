@@ -1,5 +1,5 @@
 var MPPClient = require('mpp-client-xt');
-var client = new MPPClient("http://www.multiplayerpiano.com");
+var client = new MPPClient("wss://www.multiplayerpiano.com:443");
 var fs = require('fs');
 
 client.start();
